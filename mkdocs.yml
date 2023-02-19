@@ -47,10 +47,10 @@ extra:
       link: https://github.com/Ferris-Lv
       name: GitHub | 吕泉成
     - icon: fontawesome/brands/qq
-      link: https://ferris-lv.github.io/
+      link: https://ferris-lv.github.io/mdbook
       name: QQ | 吕泉成
     - icon: fontawesome/brands/weixin
-      link: https://ferris-lv.github.io/
+      link: https://ferris-lv.github.io/mdbook
       name: 微信 | 吕泉成
 
 # [Navigtion]
@@ -65,22 +65,25 @@ nav:
     - 网站构建: ABOUT/build.md
     - 更新日志: ABOUT/lite.md
   - FRLegends:
-    - AMG GTR: FRLegnds/AMG GTR.md
-    - 阿斯顿马丁: FRLegnds/阿斯顿马丁.md
-    - 绝版套餐车: FRLegnds/绝版套餐车.md
-    - Jake_S14: FRLegnds/Jake_S14.md
-    - 思域TypeR: FRLegnds/思域TypeR.md
-    - 思域: FRLegnds/思域.md
-    - 出租车: FRLegnds/出租车.md
-    - 野马: FRLegnds/野马.md
-    - 斯巴鲁: FRLegnds/斯巴鲁.md
-    - 劳斯莱斯: FRLegnds/劳斯莱斯.md
-    - 美国警车: FRLegnds/美国警车.md
-    - 皮卡: FRLegnds/皮卡.md
-    - 杀猴车: FRLegnds/杀猴车.md
-    - 队车: FRLegnds/队车.md
-    - 痛车: FRLegnds/痛车.md
-    - 爵士: FRLegnds/爵士.md
+    - 涂装:
+      - AMG GTR: FRLegnds/涂装/AMG GTR.md
+      - 阿斯顿马丁: FRLegnds/涂装/阿斯顿马丁.md
+      - 绝版套餐车: FRLegnds/涂装/绝版套餐车.md
+      - Jake_S14: FRLegnds/涂装/Jake_S14.md
+      - 思域TypeR: FRLegnds/涂装/思域TypeR.md
+      - 思域: FRLegnds/涂装/思域.md
+      - 出租车: FRLegnds/涂装/出租车.md
+      - 野马: FRLegnds/涂装/野马.md
+      - 斯巴鲁: FRLegnds/涂装/斯巴鲁.md
+      - 劳斯莱斯: FRLegnds/涂装/劳斯莱斯.md
+      - 美国警车: FRLegnds/涂装/美国警车.md
+      - 皮卡: FRLegnds/涂装/皮卡.md
+      - 杀猴车: FRLegnds/涂装/杀猴车.md
+      - 队车: FRLegnds/涂装/队车.md
+      - 痛车: FRLegnds/涂装/痛车.md
+      - 爵士: FRLegnds/涂装/爵士.md
+    - 关于:
+      - 关于FR: FRLegnds/about/FR.md
 # [Extensions]
 plugins:
   - search: # 现在还不支持中文搜索 支持之后可以设置语言
