@@ -16,6 +16,6 @@
 手机：不便透露
 ```
 ## 相关链接
-  - 个人网站：[https://ferris-lv.github.io/mkdocs/](https://ferris-lv.github.io/mkdocs/)
+  - 个人网站：[https://ferris-lv.github.io/](https://ferris-lv.github.io/)
   - GitHub：[https://github.com/Ferris-Lv](https://github.com/Ferris-Lv)
   - Bilibili：[https://space.bilibili.com/1174274376](https://space.bilibili.com/1174274376)
