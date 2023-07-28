@@ -45,13 +45,13 @@ extra:
       name: Bilibili | 爱开飞机的老八 # 鼠标悬浮提示
     - icon: fontawesome/brands/github
       link: https://github.com/Ferris-Lv
-      name: GitHub | 吕泉成
+      name: GitHub | 
     - icon: fontawesome/brands/qq
       link: https://ferris-lv.github.io/mdbook
-      name: QQ | 吕泉成
+      name: QQ | 
     - icon: fontawesome/brands/weixin
       link: https://ferris-lv.github.io/mdbook
-      name: 微信 | 吕泉成
+      name: 微信 | 
 
 # [Navigtion]
 nav:
