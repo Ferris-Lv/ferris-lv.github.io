@@ -36,13 +36,16 @@ edit_uri: edit/main/docs # 编辑按钮跳转的链接
 repo_url: https://github.com/Ferris-Lv# 右上角点击跳转的链接
 repo_name: Ferris-Lv.github.io # 右上角的名字
 ## [bottom-left corner]
-copyright: Copyright &copy; 2022 吕泉成 # 左下角的版权声明
+copyright: Copyright &copy; 2024 FerrisLv # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/1174274376
       name: Bilibili | 爱开飞机的老八 # 鼠标悬浮提示
+    - icon: fontawesome/brands/youtube
+      link: www.youtube.com/@ferrislv
+      name: Youtube | FerrisLv
     - icon: fontawesome/brands/github
       link: https://github.com/Ferris-Lv
       name: GitHub | 
@@ -83,6 +86,7 @@ nav:
     - MUSIC/index.md
     - 音频: MUSIC/MIDI.md
     - 乐谱: MUSIC/musescore.md
+    - 中英文乐器名对照表: MUSIC/CN-EN_list.md
   - 关于:
     - ABOUT/index.md # 使用两个index 这样子左上角第一次打开会是所有Tab 而不是ABOUT
     - 个人介绍: ABOUT/me.md
