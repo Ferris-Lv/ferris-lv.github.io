@@ -44,7 +44,7 @@ extra:
       link: https://space.bilibili.com/1174274376
       name: Bilibili | 爱开飞机的老八 # 鼠标悬浮提示
     - icon: fontawesome/brands/youtube
-      link: www.youtube.com/@ferrislv
+      link: https://www.youtube.com/channel/UCE3VjQlbf1VKfirU1_EyJEA
       name: Youtube | FerrisLv
     - icon: fontawesome/brands/github
       link: https://github.com/Ferris-Lv
